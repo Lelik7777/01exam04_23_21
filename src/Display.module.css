@@ -1,0 +1,13 @@
+.wrapperDisplay {
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+    height: 100px;
+    background-color: darkturquoise;
+    text-align: center;
+    font-size: 50px;
+}
+
+.error {
+    font-size: 70px;
+    color: red;
+}
